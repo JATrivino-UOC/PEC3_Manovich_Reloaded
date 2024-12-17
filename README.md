@@ -38,11 +38,38 @@ En conclusión, la hibridación consiste simplemente de poner elementos diferent
 
 ### ¿Qué es Sony Aibo?
 
+Sony Aibo no es simplemente un robot; es una máquina que parece cobrar vida. Sus movimientos, sonidos y reacciones están tan bien diseñados que, en poco tiempo, empiezas a sentirlo como algo cercano, casi como si fuera un perrito de verdad. Lo increíble es que, al igual que una mascota real, Aibo puede aprender de las interacciones contigo, adaptarse a tus rutinas y "evolucionar" según lo que le enseñes. Te invita a jugar, a cuidarlo y a disfrutar de una compañía que, aunque no sea de carne y hueso, consigue despertar las mismas emociones que una mascota real. Esto lo convierte en mucho más que un aparato tecnológico cualquiera.
+
+[![La vida de Aibo](https://img.youtube.com/vi/5ifwGc-0mAY/0.jpg)](https://youtu.be/5ifwGc-0mAY)
+
 
 
 ### ¿Qué medios incorpora?
 
+
+- **Reconocimiento de imagen**: Identidfica rostros, objetos y su entorno. 
+
+- **Reconocimiento de voz**:  Captura de voz y reconocimiento de comandos.
+
+- **Síntesis de audio**: Emite sonidos que simulan los ladridos, gruñidos o suspiros de un perro. 
+
+- **Conectividad en la nube**: Permite procesar datos, almacenar información y recibir actualizaciones de software. 
+
+- **Sensores de proximidad**: Permiten detectar obstáculos.
+
 ### Hibridaciones detectadas
+- **Inteligencia Artificial**: Los motores, sensores y articulaciones de Aibo se combina con la IA para crear movimientos naturales que combinados con la robótica permiten a Aibo aprender, adaptarse e interactuar de manera personalizada con el usuario.
+
+- **Reconocimiento de imagen**: Es un medio que permite identificar los rostros, los objetos y el entorno pero que al sincronizarse con las expresiones y movimientos parecen dar vida al perrito.Esto le permite interactuar de manera personalizada y moverse de forma segura por los espacios.
+
+- **Reconocimiento de voz**: medio utilizado para transmitir ordenes pero que aquí, al combinarse con la IA, permite identificar al usuario para así expresarle diferetes emociones mediante gestos, movimiento o sonidos emitidos por el perrito. Esta capacidad está basada en tecnologías de síntesis de audio que antes se usaban principalmente en videojuegos o música digital.
+
+
+- **Conectividad en la nube**: permite procesar y almacenar, lo que hace posible que la mascota evolucione gracias al aprendizaje automático a medida que interactúa con los usuarios. Esto lo mantiene en constante evolución y lo hace posible la personalización de su comportamiento.
+
+
+- **Sensores de proximidad**: Con este medio, el perrito es capaz de detectar obstáculos y, además, crear una representación digital de las estancias para ubicarse en todo momento. Esta capacidad le facilita mapear el espacio y desplazarse de manera autónoma, integrando tecnologías de navegación y seguridad para poder moverse de forma segura por los entornos e interactuar de manera personalizada con el usuario.
+
 
 
 
