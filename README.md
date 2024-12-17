@@ -79,8 +79,30 @@ Sony Aibo no es simplemente un robot; es una máquina que parece cobrar vida. Su
 
 ### ¿Qué es tiltfive?
 
+Es un sistema de realidad aumentada diseñado para transformar los juegos de mesa en experiencias interactivas e inmersivas, donde los elementos del juego parecen cobrar vida a través de gráficos en 3D que se integran con el entorno físico. Lleva los juegos de mesa a otro nivel usando realidad aumentada. Básicamente, transforma el tablero de siempre en algo completamente nuevo, donde los personajes, escenarios y objetos del juego parecen salir del tablero y cobrar vida gracias a gráficos en 3D. Lo que hace especial a Tilt Five es que no se queda solo en lo visual, sino que te sumerge en una experiencia interactiva donde puedes moverte, explorar y jugar de una forma que mezcla lo tradicional con lo moderno. Es como si el juego se transformara delante de tus ojos para ofrecerte algo mucho más dinámico y sorprendente.
+
+[![Tilt Five AR Gaming Glasses Review!](https://img.youtube.com/vi/DbjjCn1zJq8/0.jpg)](https://www.youtube.com/watch?v=DbjjCn1zJq8)
+
+
 ### ¿Qué medios incorpora?
+- **Realidad aumentada**: Superpone gráficos digitales en 3D sobre un tablero físico.
+
+- **Gráficos en 3D**: Muestra los personajes, objetos y escenarios del juego están con gráficos tridimensionales.
+
+- **Interactividad digital**: Se utiliza un controlador físico para interactuar con los elementos virtuales del juego.
+
+- **Conectividad en línea**: Es posible jugar tanto de manera presencial como en línea.
+
 ### Hibridaciones detectadas
+- **Gráficos 3D y Realidad aumentada (RA)**: La animación y los gráficos en 3D, típicos de los videojuegos y el cine animado, se combinan con la realidad aumentada mediante la superposción de imágenes digitales en el tablero físico. Este híbrido permite que los gráficos se representen fuera de una pantalla interactuando con el especio real de forma sorprendente, lo cual añade una dimensión visual espectacular y envolvente al juego.
+
+- **Proyección óptica y RA**: La RA utiliza proyecta elementos visuales en el campo de visión del usuario. Esto combina dos medios: la tecnología óptica (que se utiliza en proyectores y gafas inteligentes) y la RA, que genera contenido digital contextualizado en el espacio físico.
+
+- **Interactividad digital e Inteligencia Artificial**: El software detrás de Tilt Five incorpora elementos de IA para responder en tiempo real a las acciones de los jugadores, ajustando los gráficos, movimientos y dinámicas del juego. Esto mezcla la capacidad adaptativa de la IA con la interactividad digital de las interfaces modernas.
+
+- **Conectividad en línea y RA**: Es posible jugar con personas en remoto, tal y como se haría con un videojuego, pero además combinandolo con la experiencia de RA. 
+
+- **Sensores de movimiento y animación digital**: Los controladores físicos detectan los movimientos de los jugadores, y estas interacciones se traducen en cambios visibles en el entorno animado en 3D proyectado sobre el tablero. Aquí se combinan sensores de movimiento con animación digital para crear una interacción fluida, moviendo piezas, seleccionando objetos o tomando decisiones en tiempo real
 
 ## Conclusiones
 
