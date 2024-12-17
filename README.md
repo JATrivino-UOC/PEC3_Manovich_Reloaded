@@ -6,7 +6,6 @@ Autor: José Antonio Triviño Monje
 
 Fecha: 07/12/2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 ## ¿Qué es la hibridación de medios?
 
@@ -130,6 +129,4 @@ Creo que Tilt Five y Aibo son un claro ejemplo de cómo la tecnología es capaz 
 
 * Tilt Five. (2024). Recuperado de [https://www.tiltfive.com/](https://www.tiltfive.com/)
 * Cerezo, J. (2024). El futuro de los juegos de mesa: Los Colonos de Catán en realidad aumentada. Recuperado de [https://es.gizmodo.com/el-futuro-de-los-juegos-de-mesa-los-colonos-de-catan-1849449992](https://es.gizmodo.com/el-futuro-de-los-juegos-de-mesa-los-colonos-de-catan-1849449992)
----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
