@@ -105,10 +105,31 @@ Es un sistema de realidad aumentada diseñado para transformar los juegos de mes
 - **Sensores de movimiento y animación digital**: Los controladores físicos detectan los movimientos de los jugadores, y estas interacciones se traducen en cambios visibles en el entorno animado en 3D proyectado sobre el tablero. Aquí se combinan sensores de movimiento con animación digital para crear una interacción fluida, moviendo piezas, seleccionando objetos o tomando decisiones en tiempo real
 
 ## Conclusiones
+Las hibridaciones que vemos en Tilt Five y Sony Aibo son un claro ejemplo de cómo la tecnología puede combinar varios medios conocidos para generar un producto completamente nuevo. Estas combinaciones toman herramientas y tecnologías que ya existían previamente y las mezclan de una forma tan creativa que consiguen ofrecernos una experiencia diferente. Esto solo viene a demostrar que el verdadero avance no consiste solo en inventar desde cero, sino en saber construir una hibridez creativa que capaz de ofrecer nuevas experiencias. Este proceso de mezclar medios no es algo reciente; lleva ocurriendo desde hace tiempo, tal y como señala Manovich:
+
+> “después de un primer estadio en que la mayor parte de medios preexistentes fueron simulados en software y se inventaron una serie de nuevas técnicas informáticas para la generación y edición de medios (etapa que conceptualmente y a la práctica finalizó a grandes rasgos a finales de los setenta), entramos en un nuevo periodo regido por la hibridación”
+
+En el caso de Tilt Five, ese periodo de hibridación del que habla Manovich ha dado lugar a una combinación de distintos medios que han transformado por completo el concepto de los juegos de mesa tal y como los conocíamos. Antes, estábamos limitados por un tablero físico y era imprescindible que todos los jugadores estuviéramos en la misma habitación para poder jugar. Esto cambia radicalmente al combinar en un solo producto la realidad aumentada, los gráficos 3D, el mundo físico y los videojuegos añadiendo además la posibilidad de jugar online. 
+
+Por otro lado Aibo cambia por completo lo que podríamos esperar de una máquina. No se queda en ser un simple robot o aparato que hace tareas, sino que logra algo más grande: despertar emociones. Antes, eso era algo que solo pasaba entre personas o entre personas y masotas, pero Aibo rompe esa barrera. Hace que la tecnología deje de sentirse como algo frío y lejano, y la convierte en algo capaz de conectar con nosotros. Esto es precisamente lo que Manovich destaca cuando habla de cómo la hibridez puede cambiar nuestras experiencias y relaciones con la tecnología.
+
+> “La nueva ‘estética global’ aplaude la hibridez de medios y la utiliza para idear reacciones emocionales, impulsar discursos y conformar las experiencias del usuario. En otras palabras, todo se centra en la hibridez”. 
+
+Por otro lado, creo que Sony Aibo da un paso más allá de lo que esperamos de un robot. No se limita a ser algo funcional, sino que intenta conectar con nosotros desde las emociones, lo cual me parece realmente interesante y diferente. Gracias a tecnologías como la robótica, la inteligencia artificial o el reconocimiento de voz, es capaz de mostrar un comportamiento tan real que da la sensación de ser una mascota de verdadera. 
+
+Creo que Tilt Five y Aibo son un claro ejemplo de cómo la tecnología es capaz de avanzar rápidamente mediante el uso, casi exclusivo, de la hibridación y a la creatividad humana. Esta combinación ha dado lugar a productos innovadores en el sentido de que nos ofrecen experiencias totalmente nuevas. No obstante, si lo analizamos desde la perspectiva de Manovich, observaremos que todos los medios utilizados para su composición ya existían previamente.
 
 
 
 ### Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Sony. (2024). **Aibo Official Website**. Recuperado de [https://us.aibo.com/](https://us.aibo.com/)
+* Wikipedia. (2024). Aibo. Recuperado de [https://es.wikipedia.org/wiki/Aibo](https://es.wikipedia.org/wiki/Aibo)
+* González, A. (2024). ¿Recuerdas al perro robot de las Navidades de 1999? Regresa 25 años después con un precio prohibitivo para muchos bolsillos. Recuperado de [https://www.3djuegos.com/tecnologia/noticias/recuerdas-al-perro-robot-navidades-1999-regresa-25-anos-precio-prohibitivo-para-muchos-bolsillos](https://www.3djuegos.com/tecnologia/noticias/recuerdas-al-perro-robot-navidades-1999-regresa-25-anos-precio-prohibitivo-para-muchos-bolsillos)
+
+* Tilt Five. (2024). Recuperado de [https://www.tiltfive.com/](https://www.tiltfive.com/)
+* Cerezo, J. (2024). El futuro de los juegos de mesa: Los Colonos de Catán en realidad aumentada. Recuperado de [https://es.gizmodo.com/el-futuro-de-los-juegos-de-mesa-los-colonos-de-catan-1849449992](https://es.gizmodo.com/el-futuro-de-los-juegos-de-mesa-los-colonos-de-catan-1849449992)
 ---
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
