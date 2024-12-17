@@ -20,6 +20,18 @@ Existen infinidad de ejemplos de hibridación que podríamos mostrar como ejempl
 
 ## Como distinguir la hibridación de la multimedia
 
+La hibridación y la multimedia tienen en común que ambas implican la convivencia de diferentes medios en un único espacio o sistema. Sin embargo, podemos distinguirlas por las diferetes maneras que estos medios interactúan entre sí. 
+
+En la multimedia los medios tiene una existencia totalmente independiente lo cual podemos apreciar gracias al ejemplo proporcionado por Manovich.
+
+> "En el caso del vídeo, podemos utilizar su interfaz para reproducirlo, ponerlo en pausa o rebobinarlo, mostrar una parte en bucle o cambiar el volumen del sonido. En este ejemplo, los medios están situados uno junto al otro, pero sus interfaces y técnicas no interaccionan.
+
+En la hibridación estos medios se fusionan de manera que crean algo nuevo. Nuevamente Manovich nos proporciona otro ejemplo muy ilustrativo que aclara este concepto de forma precisa:
+
+> "Por contra, en los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos. Por ejemplo, en los gráficos en movimiento el texto asume muchas propiedades que habían sido exclusivas del cine, la animación o el diseño gráfico."
+
+En conclusión, la hibridación consiste simplemente de poner elementos diferentes juntos, sino de entrelazarlos de tal manera que lo que surge sea algo diferete, con identidad propia. Es como si cada medio aportese parte de él para generar algo completamente nuevo.
+
 ## **Caso 1: Sony Aibo**
 
 
@@ -35,7 +47,7 @@ Existen infinidad de ejemplos de hibridación que podríamos mostrar como ejempl
 
 
 
-## **Caso 2: Tilt five**
+## **Caso 2: Tilt Five**
 
 
 ### ¿Qué es tiltfive?
